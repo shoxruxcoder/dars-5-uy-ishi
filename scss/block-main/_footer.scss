@@ -1,0 +1,33 @@
+.footer-space{
+    background: #2C343E;
+}
+.header-like-content-item{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.header-like-content-list{
+    display: flex;
+    width: 283px;
+    justify-content: space-between;
+}
+.footer-header-like-content{
+    width: 622px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 47px 0;
+}
+.footer-massangers-img{
+    margin-left: 24px;
+}

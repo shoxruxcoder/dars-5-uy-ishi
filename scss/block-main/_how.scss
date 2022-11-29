@@ -1,0 +1,68 @@
+.how{
+    padding-top: 351px;
+    padding-bottom: 216px;
+}
+.how-title{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+    width: 255px;
+    margin-bottom: 80px;
+}
+.how-item-title{
+    width: 255px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+    margin-bottom: 42px;
+}
+.how-item-text{
+    width: 285px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+.how-list-item{
+    width: 285px;
+    margin-right: 95px;
+    padding-top: 110px;
+}
+.how-list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 67px;
+    margin-bottom: 64px;
+}
+.how-list-item-1{
+    background-repeat: no-repeat;
+    background-image: url(../img/how-bg-1.svg);
+}
+.how-list-item-2{
+    background-repeat: no-repeat;
+    background-image: url(../img/how-bg-2.svg);
+}
+.how-list-item-3{
+    background-repeat: no-repeat;
+    background-image: url(../img/how-bg-3.svg);
+}
+.how-link{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FEFCF7;
+    background: #0E8784;
+    border-radius: 6px;
+    padding: 15px 31px;
+}

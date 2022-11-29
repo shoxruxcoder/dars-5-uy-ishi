@@ -1,0 +1,24 @@
+.header-site__item-link{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.header-site__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-site__item{
+    margin-left: 32px;
+}
+.header-site__block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 43px 0;
+}

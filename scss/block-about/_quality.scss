@@ -1,0 +1,39 @@
+.quality__title{
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    width: 517px;
+    margin-bottom: 32px;
+}
+.quality__text{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    width: 540px;
+}
+.quality__container{
+    padding: 0 85px;
+    // background-repeat: no-repeat;
+    // background-image: url(../../img/quality-bgi.jpg);
+    // background-position: right -56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.quality{
+    background: #2C343E;
+    border-radius: 10px;
+    
+}
+.quality__img-block{
+    position: relative;
+    top: -88px;
+}

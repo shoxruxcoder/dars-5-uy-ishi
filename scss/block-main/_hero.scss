@@ -1,0 +1,83 @@
+.hero-block{
+    background: #A2A2A2;
+    border-radius: 10px;
+}
+.hero-title{
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FEFCF7;
+    width: 493px;
+    margin-bottom: 32px;
+}
+.hero-text{
+    width: 445px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    opacity: 0.8;
+    margin-bottom: 56px;
+}
+.hero-link{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FEFCF7;
+    background: #0E8784;
+    border-radius: 6px;
+    padding: 15px 31px;
+}
+.hero-block{
+    padding: 117px 702px 116px 85px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: url(../img/background-coffee.png);
+    margin-bottom: 123px;
+}
+.hero-collection-list{
+    padding-top: 123px;
+    margin-bottom: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-image: url(../img/bg-img.png);
+    background-position: center -20px;
+    background-size: contain;
+}
+.hero-collection-item{
+    margin-left: 30px;
+}
+.hero-collection-list:nth-child(1){
+    margin-left: none;
+}
+.hero-collection-title{
+    width: 255px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #333D4B;
+    margin-top: 71px;
+    margin-bottom: 24px;
+}
+.hero-collection-text{
+    width: 255px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #333D4B;
+}

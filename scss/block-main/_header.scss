@@ -1,0 +1,24 @@
+.header-item-text{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.header-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-item{
+    margin-left: 32px;
+}
+.container-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 43px 0;
+}
